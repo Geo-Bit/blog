@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Research & Explorations
+title: George Tipton
 
 # Your name to show in the footer
 author: George Tipton
@@ -24,7 +24,7 @@ navbar-links:
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Home: "https://georgetipton.com"
+  Home: "https://georgetipton.com/blog"
 
 ################
 # --- Logo --- #
