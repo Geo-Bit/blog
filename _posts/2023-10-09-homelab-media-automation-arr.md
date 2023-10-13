@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Using Docker to Set Up the *Arr Media Automation Toolset in Your Homelab"
-date: 2023-10-12
+title: "*Arr Media Automation With Docker"
+date: 2023-10-09
 categories: [Docker, Homelab, Media Automation]
 ---
 

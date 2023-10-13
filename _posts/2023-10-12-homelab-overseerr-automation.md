@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Install Overseerr in a Docker Container"
+title: "Introducing Overseerr for media request management!"
 date: 2023-10-12
 categories: [Docker, Overseerr]
 ---
