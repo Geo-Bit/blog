@@ -12,4 +12,4 @@ My name is George Tipton, and I like:
 - Gravel biking
 - Woodworking
 
-You can find some of my freelance web development work HERE 👈
+You can find some of my freelance web development work [HERE](https://georgetipton.com/blog/freelance/) 👈
