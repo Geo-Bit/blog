@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-28T13:50:50-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">geo</title><subtitle>Hello! My name is George Tipton. I am professional security engineer focused primary on Application and Cloud Security. My hobbies include homelab, security research, wood working, and software development. This is where I organize my projects and thoughts.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-28T14:02:26-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">geo</title><subtitle>Hello! My name is George Tipton. I am professional security engineer focused primary on Application and Cloud Security. My hobbies include homelab, security research, wood working, and software development. This is where I organize my projects and thoughts.
 </subtitle><author><name>Geo</name></author><entry><title type="html">Automated Monitoring and Alerting for Proxmox</title><link href="http://localhost:4000/2023/09/29/proxmox-monitoring.html" rel="alternate" type="text/html" title="Automated Monitoring and Alerting for Proxmox" /><published>2023-09-29T00:00:00-06:00</published><updated>2023-09-29T00:00:00-06:00</updated><id>http://localhost:4000/2023/09/29/proxmox-monitoring</id><content type="html" xml:base="http://localhost:4000/2023/09/29/proxmox-monitoring.html"><![CDATA[<h1 id="introduction">Introduction</h1>
 
 <p>Proxmox Virtual Environment (Proxmox VE) is a powerful open-source virtualization platform that combines two virtualization technologies: KVM (Kernel-based Virtual Machine) for virtual machines and LXC (Linux Containers) for lightweight container-based virtualization. Monitoring your Proxmox environment is crucial for ensuring its reliability and performance. In this guide, we’ll explore how to set up automated Proxmox monitoring and alerting to keep your virtual infrastructure in check.</p>
@@ -101,12 +101,12 @@
 
 <ol>
   <li>Create a Fork of <a href="https://github.com/daattali/beautiful-jekyll">Beautiful-Jekyll</a> repository on GitHub, and name it whatever you’d like.
-<img src="/assets/img/gh-jekyll-fork.png" alt="Fork GitHub repo" />
-<img src="/assets/img/gh-jekyll-fork-config.png" alt="Fork GitHub repo" /></li>
+<img src="../assets/img/gh-jekyll-fork.png" alt="Fork GitHub repo" />
+<img src="../assets/img/gh-jekyll-fork-config.png" alt="Fork GitHub repo" /></li>
   <li>Once forked, navigate to the “Settings” page for your repository
-<img src="/assets/img/gh-jekyll-settings.png" alt="Fork GitHub repo" /></li>
+<img src="../assets/img/gh-jekyll-settings.png" alt="Fork GitHub repo" /></li>
   <li>Under “Code and Automation”, click “Pages”
-<img src="/assets/img/gh-jekyll-pages.png" alt="Fork GitHub repo" /></li>
+<img src="../assets/img/gh-jekyll-pages.png" alt="Fork GitHub repo" /></li>
   <li>Configure the following settings
     <ul>
       <li>Source: Deploy from a branch</li>
@@ -116,8 +116,8 @@
   </li>
   <li>Click save</li>
   <li>Once saved, you should see that your repo is live at the specified URL
-<img src="/assets/img/gh-jekyll-pages-config.png" alt="Fork GitHub repo" />
-<img src="/assets/img/gh-jekyll-live.png" alt="Fork GitHub repo" /></li>
+<img src="../assets/img/gh-jekyll-pages-config.png" alt="Fork GitHub repo" />
+<img src="../assets/img/gh-jekyll-live.png" alt="Fork GitHub repo" /></li>
 </ol>
 
 <p>With the generated URL, you can then simply add a link from your primary GitHub pages homepage (as seen on my site, https://georgetipton.com)</p>
