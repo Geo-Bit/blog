@@ -2,7 +2,7 @@
 layout: post
 title: "Automated Monitoring and Alerting for Proxmox"
 date: 2023-09-29
-categories: [Proxmox, Monitoring, Alerting]
+tags: [Proxmox, Monitoring, Alerting]
 ---
 
 # Introduction
