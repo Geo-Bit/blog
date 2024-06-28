@@ -15,20 +15,20 @@ Note: this how-to assumes you already have a GitHub pages site (such as username
 I'll be using Beautiful Jekyll as my Jekyll theme for the sake of this tutorial.
 
 1. Create a Fork of [Beautiful-Jekyll](https://github.com/daattali/beautiful-jekyll) repository on GitHub, and name it whatever you'd like.
-   ![Fork GitHub repo](/assets/img/gh-jekyll-fork.png)
-   ![Fork GitHub repo](/assets/img/gh-jekyll-fork-config.png)
+   ![Fork GitHub repo](/blog/assets/img/gh-jekyll-fork.png)
+   ![Fork GitHub repo](/blog/assets/img/gh-jekyll-fork-config.png)
 2. Once forked, navigate to the "Settings" page for your repository
-   ![Fork GitHub repo](/assets/img/gh-jekyll-settings.png)
+   ![Fork GitHub repo](/blog/assets/img/gh-jekyll-settings.png)
 3. Under "Code and Automation", click "Pages"
-   ![Fork GitHub repo](/assets/img/gh-jekyll-pages.png)
+   ![Fork GitHub repo](/blog/assets/img/gh-jekyll-pages.png)
 4. Configure the following settings
    - Source: Deploy from a branch
    - Branch: master
    - Folder: /(root)
 5. Click save
 6. Once saved, you should see that your repo is live at the specified URL
-   ![Fork GitHub repo](/assets/img/gh-jekyll-pages-config.png)
-   ![Fork GitHub repo](/assets/img/gh-jekyll-live.png)
+   ![Fork GitHub repo](/blog/assets/img/gh-jekyll-pages-config.png)
+   ![Fork GitHub repo](/blog/assets/img/gh-jekyll-live.png)
 
 With the generated URL, you can then simply add a link from your primary GitHub pages homepage (as seen on my site, https://georgetipton.com)
 
