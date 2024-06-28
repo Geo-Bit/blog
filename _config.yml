@@ -53,7 +53,7 @@ dash:
 
 # Other
 url: "https://georgetipton.com"
-baseurl: "/blog"
+baseurl: "blog/"
 
 # Build settings
 remote-theme: bitbrain/jekyll-dash
