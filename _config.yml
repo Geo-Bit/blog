@@ -56,7 +56,7 @@ url: "https://georgetipton.com"
 baseurl: "blog/"
 
 # Build settings
-remnote-theme: jekyll-dash
+remnote-theme: bitbrain/jekyll-dash
 
 plugins:
   - jekyll-feed
