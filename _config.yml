@@ -53,10 +53,10 @@ dash:
 
 # Other
 url: "https://georgetipton.com"
-baseurl: "blog/"
+baseurl: "/blog"
 
 # Build settings
-remote-theme: jekyll-dash
+remote-theme: bitbrain/jekyll-dash
 
 plugins:
   - jekyll-feed
