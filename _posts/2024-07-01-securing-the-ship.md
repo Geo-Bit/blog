@@ -40,6 +40,8 @@ bandit -r /path/to/your/code
 
 During my time threat hunting in Docker environments, I noticed several patterns and common issues. One frequent observation was the over-reliance on outdated base images, which often contained numerous vulnerabilities. In a collaborative work environment, I found that regular security training for developers significantly reduced the number of first-party vulnerabilities introduced into our Docker images.
 
+A lot of the popular IaC scanning tools recommend adding additional lines to the Dockerfile to update individual dependencies. While this approach works, I feel that it is not as efficient as it could be. These tools often lack the context and consideration of all dependencies being used, and common transitive dependencies within multiple components. For example, if you have 5 transitive dependencies in your Dockerfile, you could update explicity update those depedencies, or simply update the transitive top-level dependency which could resolve all the vulnerable transitives.
+
 ## Remediation Processes
 
 ### Updating Base Images
@@ -111,10 +113,3 @@ Remediating vulnerabilities in Docker images is not without its challenges. Some
 - **Continuous Vigilance**: Continuously monitor and update Docker images to stay ahead of emerging threats. Staying updated with the latest security trends and vulnerabilities is part of my daily routine.
 
 Recent research from the application security industry highlights the critical importance of proactive vulnerability management in Docker environments. Studies by organizations like Snyk and Aqua Security emphasize that regular scanning and prompt remediation are essential to maintaining secure containerized applications. The dynamic nature of threats makes continuous learning and adaptation crucial.
-
----
-
-**Author:** [Your Name]  
-**Date:** 2024-06-30  
-**Category:** Security Research  
-**Tags:** Docker, Vulnerabilities, Application Security, Container Security
