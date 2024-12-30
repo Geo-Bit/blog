@@ -19,7 +19,7 @@ title = "Geo"
   email = "george.w.tipton@gmail.com"
   image = "https://avatars.githubusercontent.com/u/22260073?v=4"
   imageQuality = 96
-  headline = "Security Engineering and other misc endeavors."
+  headline = "InfoSec, engineering, and other misc endeavors."
   # bio = "A little bit about you"
   links = [
      { email = "mailto:george.w.tipton@gmail.com" },
