@@ -5,7 +5,7 @@ tags: ["CTF", "Web Security", "Vue.js", "Node.js", "Docker", "Cloud Development"
 date: 2025-01-05
 draft: false
 images: 
-  - "https://georgetipton.com/blog/22260073_2708759708089130559_hu3363236680175605276.jpg"
+  - "post_photo.jpeg"
 ---
 
 <img src="holiday_ctf_alpha.png" alt="Horsetooth Liquidators" style="width:700px; display: block; margin-left: auto; margin-right: auto;"/>
