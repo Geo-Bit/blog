@@ -1,3 +1,7 @@
 [hugoVersion]
   extended = false
   min = "0.87.0"
+
+[[imports]]
+  path = "hugo-shortcode-gallery"
+
