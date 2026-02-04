@@ -3,7 +3,7 @@ title: "Cold Signal: A Text Adventure CTF Postmortem"
 categories: ["Post", "Blog"]
 tags:
   ["CTF", "Security", "Python", "Docker", "Game Design", "AI", "Claude Code"]
-date: 2025-02-01
+date: 2026-02-01
 draft: false
 images:
   - "post_photo.jpeg"
